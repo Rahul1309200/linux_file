@@ -18,3 +18,4 @@ su - operator1
 umask 007
 
 ![alt](imges/lab4.jpeg)
+![Lab Image](images/lab4.png)
