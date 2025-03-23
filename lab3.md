@@ -32,4 +32,4 @@ Press P (paste back first 4 characters)
 
 esc to escape and come to normal mode tha :wq to save and exit
 
-![Alt Text](imges/lab3.png)
+![Alt Text](imges/lab3.jpg)
