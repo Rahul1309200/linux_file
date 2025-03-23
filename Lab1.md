@@ -18,5 +18,5 @@ mkdir dir1 dir2 dir3
 
 ls -l
 
-
+![Alt Text](imges/lab1.jpg)
 
