@@ -17,5 +17,5 @@ sudo nano /home/operator1/.bashrc
 su - operator1
 umask 007
 
-![alt](imges/lab4.jpeg)
+![alt](imges/lab4.jpg)
 ![Lab Image](imges/lab4.png)
