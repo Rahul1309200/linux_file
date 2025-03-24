@@ -10,7 +10,6 @@ the operator3 user from the system.**
 
 sudo useradd operator1
 id operator1
-# OR
 getent passwd operator1
 sudo passwd operator1
 sudo useradd operator2
