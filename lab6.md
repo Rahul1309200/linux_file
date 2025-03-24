@@ -21,4 +21,4 @@ sudo usermod -c "First Operator User" operator1
 sudo userdel operator3
 sudo userdel -r operator3
 
-![alt](imges/lab6.md)
+![alt](imges/lab6.jpg)
